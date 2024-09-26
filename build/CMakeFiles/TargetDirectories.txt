@@ -1,0 +1,3 @@
+/home/mark/C++Code/NTPServerApp/build/CMakeFiles/NTPClientApp.dir
+/home/mark/C++Code/NTPServerApp/build/CMakeFiles/edit_cache.dir
+/home/mark/C++Code/NTPServerApp/build/CMakeFiles/rebuild_cache.dir
