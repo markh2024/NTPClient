@@ -1,5 +1,6 @@
 ## How to get the  exact time from an NTP server 
-#  Done in repsonce to Python Java Css HTML Javascript Coding Zone
+#  Done in repsonce to Python Java Css HTML Javascript Coding Zone Facebook 
+ 
 
 
 Here is how you do this with  C plus C plus 
@@ -7,6 +8,33 @@ Look at the differences
 The NTP (Network Time Protocol) is a protocol designed to synchronize the clocks of computers over a network. 
 The ntp_packet structure you provided represents the format of the message exchanged between an NTP client and server. 
 Here's a breakdown of how the  structure works and an overview of the NTP protocol.
+
+All files  are there   for you 
+
+This is pre compiled for Linux at present 
+
+If you need to recompile the  delete the CMakeCache.txt in the  build directory 
+or delete the build directory 
+
+After downloading do the  follwing assuming you have latest CMake installed
+
+Change directory to  wher you downloaded files 
+
+Then   create a directory named  build 
+
+Cd into build folder 
+
+Next  issue  cmake .. 
+
+This will create all cmake files required and make file 
+
+Finally  run  make 
+
+There after the exectutable  will be in the build directory 
+
+Enjoy 
+
+Explanation of how this works is here for you 
 
 Field Descriptions
 
